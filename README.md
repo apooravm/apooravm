@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apooravm&theme=tokyonight&count_private=true" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apooravm&theme=tokyonight&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=apooravm&hide_border=true&card_width=338&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apooravm&theme=rose_pine&count_private=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apooravm&theme=rose_pine&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=apooravm&hide_border=true&card_width=338&theme=rose_pine" />
 </div>
