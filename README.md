@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beastwick18&theme=tokyonight&count_private=true" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beastwick18&theme=tokyonight&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beastwick18&hide_border=true&card_width=338&theme=tokyonight" />
-    <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastwick18&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" /> -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apooravm&theme=rose_pine)
 </div>
